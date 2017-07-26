@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  retroCalc-finalAttempt
 //
-//  Created by Huzaifa Asif on 2017-07-22.
+
 //  Copyright © 2017 Huzaifa Asif. All rights reserved.
 //
 
