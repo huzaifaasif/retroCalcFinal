@@ -154,6 +154,14 @@ class ViewController: UIViewController {
         
     }
     
+    @IBAction func clearButton(_ sender: Any){
+      
+        screenLabel.text = ""
+        firstVal = ""
+        clear()
+        
+    }
+    
     func clear(){           //setting parameters to nil
         secondVal = ""
         result = ""
@@ -161,6 +169,7 @@ class ViewController: UIViewController {
     }
     
 
+    
 
     func playSound(){
         
